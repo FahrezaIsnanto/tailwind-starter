@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-starter",
+  "version": "1.0.0",
+  "description": "Tailwind Starter Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Fahreza Isnanto",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
